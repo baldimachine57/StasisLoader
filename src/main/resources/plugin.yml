@@ -1,0 +1,9 @@
+name: StasisLoader
+version: 1.0
+main: com.example.stasis.StasisPlugin
+api-version: "1.21"
+commands:
+  stasis:
+    description: Yüklü tutulan pearl'lerini listeler
+    usage: /stasis
+    aliases: [pearls]
